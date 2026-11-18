@@ -1,0 +1,26 @@
+{
+  "_note": "Demo business (fictional). Replies may ONLY use facts from this file — no invented prices, dates or promises.",
+  "name": "Harbor & Pine Realty",
+  "agentName": "Mia",
+  "industry": "residential real estate (buy, sell, rent)",
+  "areas": ["Tampines", "Punggol", "Bishan", "Toa Payoh", "Jurong East"],
+  "services": [
+    "Helping buyers find HDB resale flats and condominiums",
+    "Selling homes: free valuation, listing, viewings and negotiation",
+    "Rentals for tenants and landlords"
+  ],
+  "facts": [
+    "Home valuations are free and take about 30 minutes in person or by video call.",
+    "Viewings can be booked 7 days a week between 10 AM and 8 PM.",
+    "We work with HDB resale flats and private condominiums; we do not handle commercial or industrial property.",
+    "Our commission for sellers is discussed during the valuation; we do not quote commission over chat or email.",
+    "Buyers pay no fee to us for HDB resale purchases."
+  ],
+  "bookingLink": "https://example.com/book-a-call",
+  "hours": "Monday to Sunday, 10 AM to 8 PM (Singapore time)",
+  "hotLeadRules": [
+    "ready to buy/sell/rent within 60 days",
+    "asks for a viewing, valuation or call",
+    "has budget or financing mentioned"
+  ]
+}

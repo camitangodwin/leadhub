@@ -1,0 +1,20 @@
+{"id":"e01","expect":"hot","message":"We want to sell our 4-room HDB in Tampines within the next month. Can someone do a valuation this week?"}
+{"id":"e02","expect":"hot","message":"Looking for a 3-bedroom condo in Bishan, budget around $1.6M, loan approved. Can we arrange a viewing this weekend?"}
+{"id":"e03","expect":"hot","message":"Need a 2 bedroom rental near Jurong East, moving in 3 weeks. Can I view units this Saturday?"}
+{"id":"e04","expect":"hot","message":"Cash buyer for a resale flat in Punggol, ready to move fast. Please call me today."}
+{"id":"e05","expect":"hot","message":"I got my HDB loan approval. Want to view 5-room flats in Toa Payoh next week."}
+{"id":"e06","expect":"hot","message":"Selling my condo in Bishan ASAP because we're relocating overseas in 6 weeks. Need a valuation."}
+{"id":"e07","expect":"warm","message":"Interested in buying a condo in Bishan sometime this year. What's the process like?"}
+{"id":"e08","expect":"warm","message":"Thinking of renting out my Punggol unit later this year, what do you charge?"}
+{"id":"e09","expect":"warm","message":"We may sell our Tampines flat in a few months. Could you share how valuations work?"}
+{"id":"e10","expect":"warm","message":"Looking for a rental in Toa Payoh for my parents, flexible on timing."}
+{"id":"e11","expect":"warm","message":"Can you send me listings of 4-room resale flats in Jurong East? Budget about $600k."}
+{"id":"e12","expect":"cold","message":"Just exploring. Maybe buying next year, what areas do you cover?"}
+{"id":"e13","expect":"cold","message":"How's the property market looking these days?"}
+{"id":"e14","expect":"cold","message":"Do you handle office space for rent in the CBD? Need 2,000 sqft."}
+{"id":"e15","expect":"cold","message":"Might move to Singapore in two years, just curious about prices."}
+{"id":"e16","expect":"cold","message":"Looking for a warehouse in Tuas for my logistics company."}
+{"id":"e17","expect":"spam","message":"We can help your business rank #1! SEO services and backlinks at a discount, reply now."}
+{"id":"e18","expect":"spam","message":"Exclusive crypto investment opportunity, 30% monthly returns guaranteed."}
+{"id":"e19","expect":"spam","message":"Hi, I'm offering guest post placements on high-authority real estate blogs."}
+{"id":"e20","expect":"spam","message":"Marketing services for agencies: we generate 100 leads per week, book a demo."}

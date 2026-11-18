@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>LeadHub</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="brand"><b>LeadHub</b><span id="biz"></span></div>
+    <div class="stats" id="stats"></div>
+    <div class="chips"><span id="aiChip" class="chip"></span><span id="modeChip" class="chip"></span><button id="reset" class="ghost">Reset demo</button></div>
+  </header>
+
+  <main>
+    <aside>
+      <section class="card">
+        <h2>New lead</h2>
+        <form id="form">
+          <input name="name" placeholder="Name" required>
+          <input name="email" type="email" placeholder="Email">
+          <input name="phone" placeholder="Phone">
+          <select name="source"><option>Website form</option><option>Facebook Lead Ad</option><option>WhatsApp click-to-chat</option><option>Instagram</option><option>Referral</option></select>
+          <textarea name="message" rows="4" placeholder="What did they ask?" required></textarea>
+          <button type="submit">Submit lead</button>
+          <p class="hint" id="formMsg"></p>
+        </form>
+      </section>
+      <section class="card">
+        <h2>🔥 Hot-lead alerts</h2>
+        <div id="alerts" class="list"></div>
+      </section>
+      <section class="card">
+        <h2>Outbox <small>(simulated)</small></h2>
+        <div id="outbox" class="list"></div>
+      </section>
+    </aside>
+
+    <section class="board" id="board"></section>
+  </main>
+
+  <div id="drawer" class="drawer" hidden>
+    <div class="dhead"><h2 id="dTitle"></h2><button id="dClose" class="ghost">✕</button></div>
+    <div id="dBody"></div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
